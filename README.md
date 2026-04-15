@@ -16,12 +16,6 @@ A **priority-aware task management** smart contract deployed on the **Stellar te
 
 ---
 
-## 📸 Testnet Screenshot
-
-![Testnet screenshot — contract calls visible in Stellar Expert](./testnet_screenshot.png)
-
----
-
 ## ✨ Features
 
 This contract is **different from a basic notes app** in the following ways:
